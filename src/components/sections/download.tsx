@@ -29,7 +29,7 @@ export default function Download() {
                     </p>
                     <div className="mt-8">
                         <Button size="lg" className="h-14 text-lg" asChild>
-                            <a href="https://mega.nz/file/P95UyIyZ#wY8OwmN3yb2THyCEBBVS3DPLdPOYxzMitMHZmPSKQiQ">
+                            <a href="https://mega.nz/file/mxgn1bzT#F2GWZ2CQ3QQfgj5idKpLO8--5rdOoUl4X8a09hgdhhs">
                                 <AndroidIcon />
                                 Download for Android
                             </a>
