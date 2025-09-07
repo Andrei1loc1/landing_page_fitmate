@@ -29,7 +29,7 @@ export default function Download() {
                     </p>
                     <div className="mt-8">
                         <Button size="lg" className="h-14 text-lg" asChild>
-                            <a href="/fitmate.apk" download>
+                            <a href="https://mega.nz/file/P95UyIyZ#wY8OwmN3yb2THyCEBBVS3DPLdPOYxzMitMHZmPSKQiQ">
                                 <AndroidIcon />
                                 Download for Android
                             </a>
